@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+New HUB Cloud Training docs page (#8174)
