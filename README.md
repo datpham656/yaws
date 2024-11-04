@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
